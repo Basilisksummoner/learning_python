@@ -7,9 +7,9 @@
 
 # Мое решение
 def count_sheep(n):
-  result = ''
-  for x in range(1, n+1):
-    result += f'{x} sheep...'
-  return result
+    result = ''
+    for x in range(1, n+1):
+        result += f'{x} sheep...'
+    return result
 
 print(count_sheep(3))  # input любое число (none negative)

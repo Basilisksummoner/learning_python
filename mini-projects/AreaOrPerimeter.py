@@ -7,9 +7,9 @@
 
 #Мое решение
 def area_or_perimeter(l , w):
-  if l == w:
-    area = l**2
-    return area 
-  else:
-    perimeter = (l+w)*2
-    return perimeter
+    if l == w:
+      area = l**2
+      return area 
+    else:
+      perimeter = (l+w)*2
+      return perimeter
