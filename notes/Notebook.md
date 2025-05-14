@@ -103,3 +103,9 @@
       Тип bool True False
       Логические операции and, or, not
       a == b (оператор сравнения return bool)
+
+      x = int(input())
+            if x == 1:
+                  print('1')  >>>>>>>>>>>>   if x == 1 or f x == 0
+            if x == 0:        записываем как
+                  print('0')
