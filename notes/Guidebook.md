@@ -89,3 +89,11 @@ in Python we use **snake_case**
       break # для выхода из цикла
 
 9. `for loops`
+for x in (1,2,3)
+    
+      for x in range
+      Как работет range? (start,stop,step)
+      start нижняя граница 
+      stop верхняя гранциа за её вычетом т.е если 10 то будет 9
+      step на сколько прыгаем 1,2,3 и т.д
+      range(1,10,1) - пробежит от 1 до 9и 
