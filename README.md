@@ -7,6 +7,7 @@
 **Содержание:**
 `notes folder` - конспекты и заметки по основам Python
 `mini-projects folder` - мини-проекты для закрепления пройденных материалов
+`problem-solving folder` - для прокачки problem solving'а
 
 
 **Цель:**

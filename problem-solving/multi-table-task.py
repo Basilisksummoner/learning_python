@@ -10,3 +10,4 @@ def multi_table(number):
     for i in range(1,11):
         x = i * number
         print(f'{str(i)} * {str(number)} = {str(x)}')
+        
