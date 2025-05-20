@@ -234,4 +234,3 @@
                   print('test#3 - fail')
 
       array_search_test()
-
