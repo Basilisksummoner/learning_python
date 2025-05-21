@@ -1,16 +1,22 @@
 in Python we use **snake_case**
 
 1) `Python Data Types`
-    strings = 'String'
-    int = 1,2,3
-    float = 3.14
-    bool = True, False
+    В питоне типы данных можно разделиить на `2`
+    `Mutable` и `Immutable`
 
-    `Type annotations`
-    var_name: str = 'Hello'   указываем что var_name конкретно string
-    age: int = 22
-    !!!Аннотации типов ничего не делают в проге, т.е даже если в age вписать string
-    всё будет работать!!!
+    К `immutable` относятся:
+    1. str = 'Hello World'
+    2. int = 5
+    3. float = 3.14
+    4. bool = True, False
+    5. tuple или кортеж = (10,20)
+    6. frozenset = ([1,2,3])
+
+    К `mutable` (изменяемые):
+    1. list = [1,2,3]
+    2. dict = {'name': 'Jhon'}  # ключ: значение
+    3. set = {1,2,3}
+    4. bytearray
 
 2. `String concats`
   ("string" + "string")
