@@ -8,7 +8,7 @@
 `notes folder` - конспекты и заметки по основам Python
 `mini-projects folder` - мини-проекты для закрепления пройденных материалов
 `problem-solving folder` - для прокачки problem solving'а
-`fundamentals` - полное summary с этого репозитария, вся БАЗА по питону 
+`fundamentals` - полное summary с этого репозитория, вся БАЗА по питону 
 
 
 **Цель:**
